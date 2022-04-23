@@ -1,0 +1,20 @@
+{
+  "name": "sample-stratify",
+  "version": "1.0.0",
+  "description": "Stratified Sampling in multidimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colmpat/sample-stratify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colmpat/sample-stratify/issues"
+  },
+  "homepage": "https://github.com/colmpat/sample-stratify#readme"
+}
